@@ -2,7 +2,6 @@
 
 **An inspectable music recommendation lab in Python: compare content and deep learning models, predict the next observed song, and compose playlists with explicit discovery controls.**
 
-[Start learning](docs/START_HERE.md) · [Technical walkthrough](docs/LEARN.md) · [Real dataset](docs/LARGE_DATA.md) · [Results](docs/results/README.md) · [GitHub setup](docs/GITHUB.md)
 
 TasteLab runs locally with PyTorch and includes a small fictional teaching demo plus a much larger experiment on public ListenBrainz listening records. Spotify is an optional destination for a reviewed playlist; it is not the ML data source.
 
